@@ -144,7 +144,6 @@ pre code {
   background-color: transparent;
 }
 
-
 .highlight {
   margin-bottom: 1rem;
   border-radius: 4px;
@@ -251,17 +250,17 @@ tbody tr:nth-child(odd) th {
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #000000;
 }
 
 .masthead-title a {
-  color: #505050;
+  color: #000000;
 }
 
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #000000;
   letter-spacing: 0;
 }
 
@@ -273,7 +272,7 @@ tbody tr:nth-child(odd) th {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+  color: #000000;
 }
 
 .page-title,

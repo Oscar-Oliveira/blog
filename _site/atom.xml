@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Óscar Oliveira</title>
- <link href="https://oscar-oliveira.github.io/blog//atom.xml" rel="self"/>
- <link href="https://oscar-oliveira.github.io/blog//"/>
- <updated>2019-03-13T14:42:06+00:00</updated>
- <id>https://oscar-oliveira.github.io/blog/</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2019-03-13T14:44:24+00:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>Óscar Oliveira</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>OR-Datasets</title>
-   <link href="https://oscar-oliveira.github.io/blog//2009/03/13/or-datasets/"/>
+   <link href="http://localhost:4000/2009/03/13/or-datasets/"/>
    <updated>2009-03-13T00:00:00+00:00</updated>
-   <id>https://oscar-oliveira.github.io/blog//2009/03/13/or-datasets</id>
+   <id>http://localhost:4000/2009/03/13/or-datasets</id>
    <content type="html">&lt;p&gt;URL to repo: &lt;a href=&quot;https://github.com/Oscar-Oliveira/OR-Datasets&quot; target=&quot;_blank&quot;&gt;https://github.com/Oscar-Oliveira/OR-Datasets&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;2d-cpp&quot;&gt;2D CPP&lt;/h2&gt;

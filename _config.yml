@@ -7,8 +7,8 @@ permalink:        pretty
 
 # Setup
 title:            Óscar Oliveira1
-url:              https://oscar-oliveira.github.io/blog/blog/
-baseurl:          /blog/
+url:              https://oscar-oliveira.github.io/
+baseurl:          /blog
 
 author:
   name:           'Óscar Oliveira'

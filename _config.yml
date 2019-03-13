@@ -1,0 +1,18 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Óscar Oliveira
+url:              https://oscar-oliveira.github.io/blog/
+baseurl:          /
+
+author:
+  name:           'Óscar Oliveira'
+  url:            https://oscar-oliveira.github.io/
+
+plugins:          [jekyll-paginate]
+paginate:         5

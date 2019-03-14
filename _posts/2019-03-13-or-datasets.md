@@ -1,7 +1,7 @@
 ---
 layout: post
 title: OR-Datasets
-resume: GitHub repo <a href="https://github.com/Oscar-Oliveira/OR-Datasets" target="_blank">OR-Datasets</a> contains datasets for 2D and 3D Cutting and Packing Problems and for the Single Source Capacitated Facility Location Problem.
+resume: The GitHub repo <a href="https://github.com/Oscar-Oliveira/OR-Datasets" target="_blank">OR-Datasets</a> contains datasets for 2D and 3D Cutting and Packing Problems and for the Single Source Capacitated Facility Location Problem.
 ---
 
 URL to repo: <a href="https://github.com/Oscar-Oliveira/OR-Datasets" target="_blank">https://github.com/Oscar-Oliveira/OR-Datasets</a>

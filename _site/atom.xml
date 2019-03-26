@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Óscar Oliveira</title>
- <link href="http://localhost:4000/atom.xml" rel="self"/>
- <link href="http://localhost:4000/"/>
- <updated>2019-03-26T10:42:29+00:00</updated>
- <id>http://localhost:4000</id>
+ <link href="https://oscar-oliveira.github.io/atom.xml" rel="self"/>
+ <link href="https://oscar-oliveira.github.io/"/>
+ <updated>2019-03-26T10:48:59+00:00</updated>
+ <id>https://oscar-oliveira.github.io</id>
  <author>
    <name>Óscar Oliveira</name>
    <email></email>
@@ -13,17 +13,17 @@
 
  
  <entry>
-   <title>New Article</title>
-   <link href="http://localhost:4000/2019/03/26/new-article/"/>
+   <title>New article</title>
+   <link href="https://oscar-oliveira.github.io/2019/03/26/new-article/"/>
    <updated>2019-03-26T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2019/03/26/new-article</id>
+   <id>https://oscar-oliveira.github.io/2019/03/26/new-article</id>
    <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;We consider the non-guillotine bin packing problem in which a set of items must be packed into the minimum number of identical bins. We present a simple and fast heuristic that iteratively creates a new sequence of items that defines the packing order used to generate the new cutting plan. The new sequences retain, adaptively, characteristics of the previous sequences for search intensification and diversification. Computational experiments of the effectiveness of this approach are presented and discussed.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&quot;bibtex&quot;&gt;bibtex&lt;/h2&gt;
+&lt;h2 id=&quot;bibtex&quot;&gt;Bibtex&lt;/h2&gt;
 
 &lt;div class=&quot;language-latex highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@InProceedings&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;10.1007/978-3-030-14347-3&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;36,
 author=&quot;Oliveira, &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\'&lt;/span&gt;O&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;scar
@@ -47,9 +47,9 @@ isbn=&quot;978-3-030-14347-3&quot;
  
  <entry>
    <title>OR-Datasets</title>
-   <link href="http://localhost:4000/2019/03/13/or-datasets/"/>
+   <link href="https://oscar-oliveira.github.io/2019/03/13/or-datasets/"/>
    <updated>2019-03-13T00:00:00+00:00</updated>
-   <id>http://localhost:4000/2019/03/13/or-datasets</id>
+   <id>https://oscar-oliveira.github.io/2019/03/13/or-datasets</id>
    <content type="html">&lt;p&gt;URL to repo: &lt;a href=&quot;https://github.com/Oscar-Oliveira/OR-Datasets&quot; target=&quot;_blank&quot;&gt;https://github.com/Oscar-Oliveira/OR-Datasets&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;2d-cpp&quot;&gt;2D CPP&lt;/h2&gt;

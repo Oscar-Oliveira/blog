@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Article
+title: New article
 resume: New article published "Adaptive Sequence-Based Heuristic for the Two-Dimensional Non-guillotine Bin Packing Problem".
 ---
 
@@ -8,7 +8,7 @@ resume: New article published "Adaptive Sequence-Based Heuristic for the Two-Dim
 
 > We consider the non-guillotine bin packing problem in which a set of items must be packed into the minimum number of identical bins. We present a simple and fast heuristic that iteratively creates a new sequence of items that defines the packing order used to generate the new cutting plan. The new sequences retain, adaptively, characteristics of the previous sequences for search intensification and diversification. Computational experiments of the effectiveness of this approach are presented and discussed.
 
-## bibtex
+## Bibtex
 
 ```latex
 @InProceedings{10.1007/978-3-030-14347-3_36,

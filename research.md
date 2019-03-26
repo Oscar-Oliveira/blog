@@ -5,6 +5,8 @@ title: Research
 
 &nbsp;
 
+* Ó. Oliveira and D. Gamboa, “Adaptive Sequence-Based Heuristic for the Two-Dimensional Non-guillotine Bin Packing Problem,” in Hybrid Intelligent Systems, A. M. Madureira, A. and Abraham, N. and Gandhi, and M. L. and Varela, Eds. Cham: Springer International Publishing, 2020, pp. 370–375. DOI: [10.1007/978-3-030-14347-3_36](https://doi.org/10.1007/978-3-030-14347-3_36).
+
 * Ó Oliveira, D. Gamboa, and P. Fernandes, “An Information System for the Furniture Industry to Optimize the Cutting Process and the Waste Generated”, Procedia Computer Science, vol. 100, pp. 711–716. DOI: [10.1016/j.procs.2016.09.215](https://doi.org/10.1016/j.procs.2016.09.215).
 
 * Ó. Oliveira, D. Gamboa, and P. Fernandes, “GRASP for the Rectangular Two-Dimensional Cutting Stock Problem with Usable Leftovers”, 27th European Conference on Operational Research, Glasgow (Scotland), 2015.

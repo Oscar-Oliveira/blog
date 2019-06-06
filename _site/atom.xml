@@ -4,13 +4,56 @@
  <title>Óscar Oliveira</title>
  <link href="https://oscar-oliveira.github.io/atom.xml" rel="self"/>
  <link href="https://oscar-oliveira.github.io/"/>
- <updated>2019-03-28T18:28:12+00:00</updated>
+ <updated>2019-06-06T14:15:07+01:00</updated>
  <id>https://oscar-oliveira.github.io</id>
  <author>
    <name>Óscar Oliveira</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>New article</title>
+   <link href="https://oscar-oliveira.github.io/2019/06/06/ETL-article/"/>
+   <updated>2019-06-06T00:00:00+01:00</updated>
+   <id>https://oscar-oliveira.github.io/2019/06/06/ETL-article</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Extract-Transform-Load (ETL) workflows are commonly developed using frameworks and tools that provide a set of useful pre-configured components to develop complete ETL packages. The pattern concept for ETL development is being studied as a way to simplify and improve the ETL development lifecycle. Patterns are independent composite tasks that can be changed without affecting the ETL structure. The pattern implementation reveals several challenges when used with existing ETL tools, mainly due to the monolith architectural style usually followed. The use of small and loosely-coupled components provided by the microservices architectural style can improve the way ETL patterns are used. In this paper, we present an analysis for the use of microservices for ETL application development using patterns.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bibtex&quot;&gt;Bibtex&lt;/h2&gt;
+
+&lt;div class=&quot;language-latex highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@conference&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;iceis19,
+author=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Bruno Oliveira. and Óscar Oliveira. and Vasco Santos. and Orlando Belo.&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+title=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;ETL Development using Patterns: A Service-Oriented Approach&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+booktitle=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Proceedings of the 21st International Conference on Enterprise Information Systems - Volume 1: ICEIS,&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+year=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;2019&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+pages=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;216-222&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+publisher=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;SciTePress&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+organization=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;INSTICC&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+doi=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;10.5220/0007727502160222&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+isbn=&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;978-989-758-372-8&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2D Cutting and Packing resources</title>
+   <link href="https://oscar-oliveira.github.io/2019/06/06/2D_CP_SIte/"/>
+   <updated>2019-06-06T00:00:00+01:00</updated>
+   <id>https://oscar-oliveira.github.io/2019/06/06/2D_CP_SIte</id>
+   <content type="html">&lt;h2 id=&quot;summary&quot;&gt;Summary&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The &lt;a href=&quot;https://oscar-oliveira.github.io/2D-Cutting-and-Packing/&quot;&gt;website&lt;/a&gt; hosts the resources (Literature utilities, Datasets and Graphical User Interfaces) created for helping cutting and packing research.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://oscar-oliveira.github.io/2D-Cutting-and-Packing/&quot;&gt;https://oscar-oliveira.github.io/2D-Cutting-and-Packing/&lt;/a&gt;&lt;/p&gt;
+</content>
+ </entry>
  
  <entry>
    <title>New article</title>

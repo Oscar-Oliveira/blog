@@ -13,7 +13,7 @@ title: About
   * 2012-2013 - ESHOP – Effective Solutions for Hard Optimization Problems (PTDC/EGE-GES/104482/2008), Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
 
 * Invited Assistant Teacher
-  * 2015-2018 - Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)
+  * 2013-2018 - Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)
 
 * Teacher
   * 2014 - Ensino Profissional do Entre Douro e Tâmega S.A., Amarante (Portugal)

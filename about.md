@@ -7,27 +7,20 @@ title: About
 
 ## Education
 
-* PhD in Engineering and Industrial Management \
-Faculdade de Engenharia da Universidade do Porto, Porto (Portugal)
+* PhD in Engineering and Industrial Management, Faculdade de Engenharia da Universidade do Porto, Porto (Portugal)
 
-* Master's degree in Computer Engineering \
-Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)
+* Master's degree in Computer Engineering, Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)
 
-* Licentiate degree in Information Technology - Applied Mathematics \
-Universidade Portucalense, Porto (Portugal)
+* Licentiate degree in Information Technology - Applied Mathematics, Universidade Portucalense, Porto (Portugal)
 
-* Bachelor's degree, Computer Science \
-Instituto Superior Portucalense de Penafiel, Universidade Portucalense, Penafiel (Portugal)
+* Bachelor's degree, Computer Science, Instituto Superior Portucalense de Penafiel, Universidade Portucalense, Penafiel (Portugal)
 
 ## Professional experience
 
 * __Research fellow__
-  * 2018-2019 - CIICESI_2017-03 \
-Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
-  * 2014-2015 - Integrated Materials Management Optimization (IMMO) \
-Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
-  * 2012-2013 - Effective Solutions for Hard Optimization Problems (ESHOP) \
-Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
+  * 2018-2019 - CIICESI_2017-03, Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
+  * 2014-2015 - Integrated Materials Management Optimization (IMMO), Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
+  * 2012-2013 - Effective Solutions for Hard Optimization Problems (ESHOP), Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
 
 * __Invited Assistant Teacher__
   * 2013-2018 - Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)

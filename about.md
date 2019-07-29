@@ -11,13 +11,13 @@ title: About
 
 * Master's degree in Computer Engineering, Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)
 
-* Licentiate degree in Information Technology - Applied Mathematics, Universidade Portucalense, Porto (Portugal)
+* Licentiate's degree in Information Technology - Applied Mathematics, Universidade Portucalense, Porto (Portugal)
 
 * Bachelor's degree, Computer Science, Instituto Superior Portucalense de Penafiel, Universidade Portucalense, Penafiel (Portugal)
 
-## Professional experience
+## Professional Experience
 
-* __Research fellow__
+* __Research Fellow__
   * 2018-2019 - CIICESI_2017-03, Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
   * 2014-2015 - Integrated Materials Management Optimization (IMMO), Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
   * 2012-2013 - Effective Solutions for Hard Optimization Problems (ESHOP), Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)

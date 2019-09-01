@@ -8,11 +8,8 @@ title: About
 ## Education
 
 * PhD in Engineering and Industrial Management, Faculdade de Engenharia da Universidade do Porto, Porto (Portugal)
-
 * Master's degree in Computer Engineering, Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)
-
 * Licentiate's degree in Information Technology - Applied Mathematics, Universidade Portucalense, Porto (Portugal)
-
 * Bachelor's degree, Computer Science, Instituto Superior Portucalense de Penafiel, Universidade Portucalense, Penafiel (Portugal)
 
 ## Professional Experience

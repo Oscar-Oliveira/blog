@@ -4,13 +4,44 @@
  <title>Óscar Oliveira</title>
  <link href="https://oscar-oliveira.github.io/atom.xml" rel="self"/>
  <link href="https://oscar-oliveira.github.io/"/>
- <updated>2019-07-29T10:41:10+01:00</updated>
+ <updated>2019-09-01T17:55:18+01:00</updated>
  <id>https://oscar-oliveira.github.io</id>
  <author>
    <name>Óscar Oliveira</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>New article</title>
+   <link href="https://oscar-oliveira.github.io/2019/09/01/new-article/"/>
+   <updated>2019-09-01T00:00:00+01:00</updated>
+   <id>https://oscar-oliveira.github.io/2019/09/01/new-article</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;In many scenarios, such as the ones related to Data Warehousing Extract-Transform-Load (ETL) processes, logging techniques are usually applied for capturing event metrics across system levels for system auditing and system recovery. The diversity of strategies and architectures of the toolset used to support the ETL implementation introduces another layer of complexity, both for system development and audit. Although a valuable system diagnosis resource for the development team, logging is generally underestimated, being used only when the system reveals unexpected behaviours and not to drive the ETL system evolution. We believe that the use of logs for steering ETL development and maintenance can improve significantly global system quality. However, this approach is only effective if flexible and efficient logging systems exist. In this paper, we describe a Log Pattern used in a pattern-oriented approach for ETL systems development, which provides a configurable and flexible component for using to drive ETL development and maintenance phases.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bibtex&quot;&gt;Bibtex&lt;/h2&gt;
+
+&lt;div class=&quot;language-latex highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@inproceedings&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Oliveira2019a,
+author = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Oliveira, Bruno and Oliveira, &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;O&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;scar and Matos, Telmo and Santos, Vasco and Belo, Orlando&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+booktitle = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Proceedings of the International Conferences Big Data Analytics, Data Mining and Computational Intelligence 2019; and Theory and Practice in Modern Computing 2019&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+doi = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;10.33965/bigdaci2019&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;201907L005&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+editor = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Roth, Ajith P. Abraham and J&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;o&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;rg&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+isbn = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;9789898533920&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+keywords = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;data warehousing,etl patterns,etl systems,graph databases,log pattern,logging,process mining&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+month = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;jul&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+pages = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;39--46&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+publisher = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;IADIS Press&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+title = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;An ETL Pattern for Log Configuration and Analysis&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+url = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;http://www.iadisportal.org/digital-library/an-etl-pattern-for-log-configuration-and-analysis&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+year = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;2019&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>New article</title>

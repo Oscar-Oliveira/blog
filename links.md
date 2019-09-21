@@ -1,6 +1,5 @@
 ---
 layout: page
-show_in_nav: false
 ---
 
 # Links

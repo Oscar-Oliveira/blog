@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+menu: main
 ---
 
 &nbsp;

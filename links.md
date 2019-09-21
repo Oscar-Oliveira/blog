@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Links
 ---
 
-## Links
+# Links
 
 * "The easy to use, online, collaborative LaTeX editor" - [Overleaf](https://www.overleaf.com?r=da435ecc&rm=d&rs=b)
 * "Securely share, sync, and collaborate" - [Dropbox](https://db.tt/bBFwOqOR)

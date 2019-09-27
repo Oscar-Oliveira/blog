@@ -15,12 +15,15 @@ menu: main
 
 ## Professional Experience
 
+* __Invited Adjunct Professor__
+  * 2019-... - Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)
+
 * __Research Fellow__
   * 2018-2019 - CIICESI_2017-03, Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
   * 2014-2015 - Integrated Materials Management Optimization (IMMO), Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
   * 2012-2013 - Effective Solutions for Hard Optimization Problems (ESHOP), Centro de Inovação e Investigação em Ciências Empresariais e Sistemas de Informação, Felgueiras (Portugal)
 
-* __Invited Assistant Teacher__
+* __Invited Assistant Professor__
   * 2013-2018 - Escola Superior de Tecnologia e Gestão, Felgueiras (Portugal)
 
 * __Teacher__

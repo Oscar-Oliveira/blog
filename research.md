@@ -17,6 +17,7 @@ menu: main
 
 ## Oral Communications
 
+* Oliveira, Ó., Gamboa, D., Silva, E.: Resources for Two-Dimensional (and Three-Dimensional) Cutting and Packing Solution Methods Research. In: 16th International Conference on Applied Computing, 7-9 November, Cagliari, Italy.
 * Oliveira, Ó., Gamboa, D., Silva, E.: Adaptive Sequence-based Heuristic for Two-Dimensional Non-Guillotine Packing Problems. In: XX Congresso da Associação Portuguesa de Investigação Operacional, 22-24 July 2019, Tomar, Portugal.
 * Oliveira, Ó., Matos, T., Gamboa, D.: Adaptive Sequence-based Heuristic for the Three Dimensional Bin Packing Problem. In: 13th Learning and Intelligent OptimizatioN Conference (LION), 27-31 May 2019, Chania, Crete, Greece.
 * Oliveira, Ó., Matos, T., Gamboa, D.: A RAMP Algorithm for Large-scale Single Source Capacitated Facility Location Problems. In: 13th Learning and Intelligent OptimizatioN Conference (LION), 27-31 May 2019, Chania, Crete, Greece.

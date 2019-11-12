@@ -1,0 +1,24 @@
+I"0<h2 id="abstract">Abstract</h2>
+
+<blockquote>
+  <p>In many scenarios, such as the ones related to Data Warehousing Extract-Transform-Load (ETL) processes, logging techniques are usually applied for capturing event metrics across system levels for system auditing and system recovery. The diversity of strategies and architectures of the toolset used to support the ETL implementation introduces another layer of complexity, both for system development and audit. Although a valuable system diagnosis resource for the development team, logging is generally underestimated, being used only when the system reveals unexpected behaviours and not to drive the ETL system evolution. We believe that the use of logs for steering ETL development and maintenance can improve significantly global system quality. However, this approach is only effective if flexible and efficient logging systems exist. In this paper, we describe a Log Pattern used in a pattern-oriented approach for ETL systems development, which provides a configurable and flexible component for using to drive ETL development and maintenance phases.</p>
+</blockquote>
+
+<h2 id="bibtex">Bibtex</h2>
+
+<div class="language-latex highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings<span class="p">{</span>Oliveira2019a,
+author = <span class="p">{</span>Oliveira, Bruno and Oliveira, <span class="p">{</span><span class="k">\'</span><span class="p">{</span>O<span class="p">}}</span>scar and Matos, Telmo and Santos, Vasco and Belo, Orlando<span class="p">}</span>,
+booktitle = <span class="p">{</span>Proceedings of the International Conferences Big Data Analytics, Data Mining and Computational Intelligence 2019; and Theory and Practice in Modern Computing 2019<span class="p">}</span>,
+doi = <span class="p">{</span>10.33965/bigdaci2019<span class="p">_</span>201907L005<span class="p">}</span>,
+editor = <span class="p">{</span>Roth, Ajith P. Abraham and J<span class="p">{</span><span class="k">\"</span><span class="p">{</span>o<span class="p">}}</span>rg<span class="p">}</span>,
+isbn = <span class="p">{</span>9789898533920<span class="p">}</span>,
+keywords = <span class="p">{</span>data warehousing,etl patterns,etl systems,graph databases,log pattern,logging,process mining<span class="p">}</span>,
+month = <span class="p">{</span>jul<span class="p">}</span>,
+pages = <span class="p">{</span>39--46<span class="p">}</span>,
+publisher = <span class="p">{</span>IADIS Press<span class="p">}</span>,
+title = <span class="p">{</span>An ETL Pattern for Log Configuration and Analysis<span class="p">}</span>,
+url = <span class="p">{</span>http://www.iadisportal.org/digital-library/an-etl-pattern-for-log-configuration-and-analysis<span class="p">}</span>,
+year = <span class="p">{</span>2019<span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

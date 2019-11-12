@@ -21,3 +21,4 @@ title: Links
 
 * [Revolut](https://revolut.com/referral/scark40l!G10D21) - "A Radically Better Account."
 * [N26](https://n26.com/r/oscaro7893) - "The first bank you'll love."
+* [Curve](https://curve.page.link/X7SPV) - "Choose All Your Cards in One." Curve code for €5 bonus: *D845BK5E*

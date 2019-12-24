@@ -4,13 +4,47 @@
  <title>Óscar Oliveira</title>
  <link href="https://oscar-oliveira.github.io/atom.xml" rel="self"/>
  <link href="https://oscar-oliveira.github.io/"/>
- <updated>2019-12-24T11:01:24+00:00</updated>
+ <updated>2019-12-24T11:10:19+00:00</updated>
  <id>https://oscar-oliveira.github.io</id>
  <author>
    <name>Óscar Oliveira</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>New article</title>
+   <link href="https://oscar-oliveira.github.io/2019/12/24/new-article/"/>
+   <updated>2019-12-24T00:00:00+00:00</updated>
+   <id>https://oscar-oliveira.github.io/2019/12/24/new-article</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We present a set of resources that we have created when studying two-dimensional rectangular cutting and packing solution methods. We have compiled and converted the datasets found in the literature into a common format to ease the data input to the solution methods implementations. We present graphical user interfaces for instance and cutting plan visualisation. Finally, we present the website developed that, besides hosting all resources that we have made available, contains a set of utilities that can help on the characterisation of the articles available in the literature for two-dimensional cutting and packing problems and the relations between them. These resources are available for use and open for contributions.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bibtex&quot;&gt;Bibtex&lt;/h2&gt;
+
+&lt;div class=&quot;language-latex highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@inproceedings&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;OscarOliveira2019,
+author = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Oliveira, &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;O&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;scar and Gamboa, Dorabela and Silva, Elsa&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+booktitle = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Proceedings of the 16th International Conference on Applied Computing 2019&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+doi = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;10.33965/ac2019&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;201912L016&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+editor = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Weghorn, Hans&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+isbn = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;9789898533951&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+keywords = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;icle&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+mendeley-groups = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Articles/ASH&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;journal&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+month = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;nov&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+number = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;9&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+pages = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;131--138&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+publisher = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;IADIS Press&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+title = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;RESOURCES FOR TWO-DIMENSIONAL (AND THREE-DIMENSIONAL) CUTTING AND PACKING SOLUTION METHODS RESEARCH&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+url = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;http://www.iadisportal.org/digital-library/resources-for-two-dimensional-and-three-dimensional-cutting-and-packing-solution-methods-research&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+volume = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;53&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+year = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;2019&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+</content>
+ </entry>
  
  <entry>
    <title>New article</title>

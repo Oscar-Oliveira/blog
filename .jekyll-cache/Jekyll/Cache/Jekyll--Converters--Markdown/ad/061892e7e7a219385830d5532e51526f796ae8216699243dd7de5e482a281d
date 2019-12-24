@@ -1,0 +1,27 @@
+I"‡	<h2 id="abstract">Abstract</h2>
+
+<blockquote>
+  <p>We present a set of resources that we have created when studying two-dimensional rectangular cutting and packing solution methods. We have compiled and converted the datasets found in the literature into a common format to ease the data input to the solution methods implementations. We present graphical user interfaces for instance and cutting plan visualisation. Finally, we present the website developed that, besides hosting all resources that we have made available, contains a set of utilities that can help on the characterisation of the articles available in the literature for two-dimensional cutting and packing problems and the relations between them. These resources are available for use and open for contributions.</p>
+</blockquote>
+
+<h2 id="bibtex">Bibtex</h2>
+
+<div class="language-latex highlighter-rouge"><div class="highlight"><pre class="highlight"><code>@inproceedings<span class="p">{</span>OscarOliveira2019,
+author = <span class="p">{</span>Oliveira, <span class="p">{</span><span class="k">\'</span><span class="p">{</span>O<span class="p">}}</span>scar and Gamboa, Dorabela and Silva, Elsa<span class="p">}</span>,
+booktitle = <span class="p">{</span>Proceedings of the 16th International Conference on Applied Computing 2019<span class="p">}</span>,
+doi = <span class="p">{</span>10.33965/ac2019<span class="p">_</span>201912L016<span class="p">}</span>,
+editor = <span class="p">{</span>Weghorn, Hans<span class="p">}</span>,
+isbn = <span class="p">{</span>9789898533951<span class="p">}</span>,
+keywords = <span class="p">{</span>icle<span class="p">}</span>,
+mendeley-groups = <span class="p">{</span>Articles/ASH<span class="p">{</span><span class="k">\_</span><span class="p">}</span>journal<span class="p">}</span>,
+month = <span class="p">{</span>nov<span class="p">}</span>,
+number = <span class="p">{</span>9<span class="p">}</span>,
+pages = <span class="p">{</span>131--138<span class="p">}</span>,
+publisher = <span class="p">{</span>IADIS Press<span class="p">}</span>,
+title = ,
+url = <span class="p">{</span>http://www.iadisportal.org/digital-library/resources-for-two-dimensional-and-three-dimensional-cutting-and-packing-solution-methods-research<span class="p">}</span>,
+volume = <span class="p">{</span>53<span class="p">}</span>,
+year = <span class="p">{</span>2019<span class="p">}</span>
+<span class="p">}</span>
+</code></pre></div></div>
+:ET

@@ -4,13 +4,96 @@
  <title>Óscar Oliveira</title>
  <link href="https://oscar-oliveira.github.io/atom.xml" rel="self"/>
  <link href="https://oscar-oliveira.github.io/"/>
- <updated>2019-12-24T11:10:19+00:00</updated>
+ <updated>2020-01-25T09:25:18+00:00</updated>
  <id>https://oscar-oliveira.github.io</id>
  <author>
    <name>Óscar Oliveira</name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>New articles</title>
+   <link href="https://oscar-oliveira.github.io/2020/01/24/new-articles/"/>
+   <updated>2020-01-24T00:00:00+00:00</updated>
+   <id>https://oscar-oliveira.github.io/2020/01/24/new-articles</id>
+   <content type="html">&lt;h2 id=&quot;abstract&quot;&gt;Abstract&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Adaptive Sequence-Based Heuristic for the Three-Dimensional Bin Packing Problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We consider the three-dimensional Bin Packing Problem in which a set of boxes must be packed into the minimum number of identical bins. We present a heuristic that iteratively creates new sequences of boxes that defines the packing order used to generate a new solution. The sequences are generated retaining, adaptively, characteristics of previous sequences for search intensification and diversification. Computational experiments of the effectiveness of this approach are presented and discussed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A RAMP Algorithm for Large-Scale Single Source Capacitated Facility Location Problems&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;We propose a Relaxation Adaptive Memory Programming (RAMP) algorithm for the solution of the Single Source Capacitated Facility Location Problem (SSCFLP). This problem considers a set of possible locations for opening facilities and a set of clients whose demand must be satisfied. The objective is to minimize the cost of assigning the clients to the facilities, ensuring that all clients are served by only one facility without exceeding the capacity of the facilities. The RAMPframework efficiently explores the relation between the primal and the dual sides of combinatorial optimization problems. In our approach, the dual problem, obtained through a lagrangean relaxation, is solved by subgradient optimization. Computational experiments of the effectiveness of this approach are presented and discussed.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A Simple Dual-RAMP Algorithm for the Capacitated Facility Location Problem&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Facility Location embodies a class of problems concerned with locat- ing a set of facilities to serve a geographically distributed population of custom- ers at minimum cost. We address the classical Capacitated Facility Location Problem (CFLP) in which the assignment of facilities to customers must ensure sufficient facility capacity and all the customers must be served. This is a well- known NP-hard problem in combinatorial optimization that has been extensive- ly studied in the literature. Due to the difficulty of the problem, significant re- search efforts have been devoted to developing advanced heuristic methods aimed at finding high-quality solutions in reasonable computational times. We propose a Relaxation Adaptive Memory Programming (RAMP) approach for the CFLP. Our method combines lagrangean subgradient search with tabu search to explore primal-dual relationships as a way to create advanced memory structures that integrate information from both primal and dual solution spaces. The algorithm was tested on the standard ORLIB dataset and on other very large-scale instances for the CFLP. Our approach efficiently found the optimal solution for all ORLIB instances and very competitive results for the large-scale ones. Comparisons with current best-performing algorithms for the CFLP show that&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;bibtex&quot;&gt;Bibtex&lt;/h2&gt;
+
+&lt;div class=&quot;language-latex highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@incollection&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Oliveira2020,
+author = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Oliveira, &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;O&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;scar and Matos, Telmo and Gamboa, Dorabela&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+booktitle = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Learning and Intelligent Optimization. LION 2019.&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+doi = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;10.1007/978-3-030-38629-0&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;6&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+editor = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Matsatsinis, Nikolaos F and Marinakis, Yannis and Pardalos, Panos&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+file = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;:C&lt;span class=&quot;p&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\backslash&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$&lt;/span&gt;:/Users/oscar/Documents/Mendeley Desktop/Oliveira, Matos, Gamboa/Learning and Intelligent Optimization. LION 2019/Oliveira, Matos, Gamboa - 2020 - Adaptive Sequence-Based Heuristic for the Three-Dimensional Bin Packing Problem.pdf:pdf&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+pages = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;69--76&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+series = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Lecture Notes in Computer Science&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+title = ,
+url = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;http://link.springer.com/10.1007/978-3-030-38629-0&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;6&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+volume = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;11968&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+year = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;2020&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-latex highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@incollection&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Oliveira2020,
+author = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Oliveira, &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;O&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;scar and Matos, Telmo and Gamboa, Dorabela&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+booktitle = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Learning and Intelligent Optimization. LION 2019.&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+doi = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;10.1007/978-3-030-38629-0&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;14&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+editor = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Matsatsinis, Nikolaos F and Marinakis, Yannis and Pardalos, Panos&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+file = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;:C&lt;span class=&quot;p&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\backslash&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$&lt;/span&gt;:/Users/oscar/Documents/Mendeley Desktop/Oliveira, Matos, Gamboa/Learning and Intelligent Optimization. LION 2019/Oliveira, Matos, Gamboa - 2020 - A RAMP Algorithm for Large-Scale Single Source Capacitated Facility Location Problems.pdf:pdf&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+pages = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;171--183&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+series = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Lecture Notes in Computer Science&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+title = ,
+url = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;http://link.springer.com/10.1007/978-3-030-38629-0&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;14&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+volume = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;11968&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+year = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;2020&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;language-latex highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;@incollection&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;10.1007/978-3-030-38629-0&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;20,
+author = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Matos, Telmo and Oliveira, &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;O&lt;span class=&quot;p&quot;&gt;}}&lt;/span&gt;scar and Gamboa, Dorabela&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+booktitle = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Learning and Intelligent Optimization. LION 2019.&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+doi = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;10.1007/978-3-030-38629-0&lt;span class=&quot;p&quot;&gt;_&lt;/span&gt;20&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+editor = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Matsatsinis, Nikolaos F and Marinakis, Yannis and Pardalos, Panos&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+file = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;:C&lt;span class=&quot;p&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;nv&quot;&gt;\backslash&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;$&lt;/span&gt;:/Users/oscar/Documents/Mendeley Desktop/Matos, Oliveira, Gamboa/Learning and Intelligent Optimization. LION 2019/Matos, Oliveira, Gamboa - 2020 - A Simple Dual-RAMP Algorithm for the Capacitated Facility Location Problem.pdf:pdf&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+isbn = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;978-3-030-38629-0&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+pages = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;240--252&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+publisher = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Springer International Publishing&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+series = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;Lecture Notes in Computer Science&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+title = ,
+url = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;http://link.springer.com/10.1007/978-3-030-38629-0&lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;\_&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;20&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+volume = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;11968&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;,
+year = &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;2020&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+</content>
+ </entry>
  
  <entry>
    <title>New article</title>
